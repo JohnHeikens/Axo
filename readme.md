@@ -9,3 +9,5 @@ http://axo.bar/
 ## wiki:
 https://github.com/JohnHeikens/Axo/wiki
 
+## report an issue:
+https://github.com/JohnHeikens/Axo/issues/new
